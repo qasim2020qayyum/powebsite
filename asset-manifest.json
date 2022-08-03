@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/powebsite/static/css/main.ca0a6750.css",
+    "main.js": "/powebsite/static/js/main.ea3386e4.js",
+    "static/media/profile4.JPG": "/powebsite/static/media/profile4.889d3ef54ba34cc30de1.JPG",
+    "static/media/cv.JPG": "/powebsite/static/media/cv.6b819d70271f16b3d05e.JPG",
+    "index.html": "/powebsite/index.html",
+    "main.ca0a6750.css.map": "/powebsite/static/css/main.ca0a6750.css.map",
+    "main.ea3386e4.js.map": "/powebsite/static/js/main.ea3386e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca0a6750.css",
+    "static/js/main.ea3386e4.js"
+  ]
+}
